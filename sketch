@@ -1,5 +1,5 @@
 #!/bin/bash
 # Runs the CLI for sketches
 
-java -cp ##PREFIX##/commons-cli-1.4.jar:##PREFIX##/sketches-core-0.8.4.jar:##PREFIX##/memory-0.8.4.jar:##PREFIX##/sketches-misc-0.8.3-SNAPSHOT.jar com.yahoo.sketches.cmd.CommandLine "$@"
+java -cp ##PREFIX##/commons-cli-1.4.jar:##PREFIX##/sketches-core-0.10.0.jar:##PREFIX##/memory-0.10.2.jar:##PREFIX##/sketches-misc-0.8.3-SNAPSHOT.jar com.yahoo.sketches.cmd.CommandLine "$@"
 
