@@ -5,7 +5,7 @@
 class Ds < Formula
   desc ""
   homepage ""
-  url "https://github.com/nikitaivkin/ds/archive/v0.0.62.tar.gz"
+  #url "https://github.com/nikitaivkin/ds/archive/v0.0.62.tar.gz"
   sha256 "3698cf4765e2628a6229669287e26c854bafcf29dfd1e6dd8a27b12afd6e54ac"
   version "0.0.62"
 
